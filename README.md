@@ -24,3 +24,9 @@ tar -czf /vz/template/cache/<OS>-<ARCH>.tar.gz ./
 Create the configuration file.
 
 cp /etc/vz/dists/centos.conf /etc/vz/dists/template-name.conf
+
+
+=============================== instant openvz cpanel templet
+https://linux-os-templates.googlecode.com/svn/trunk/centos/
+or
+https://www.dropbox.com/s/rrdv79hpvranh1r/centos-6-cpanel-64-bit.tar.gz?dl=0
